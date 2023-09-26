@@ -1,0 +1,6 @@
+.venv
+**.pytest_cache
+**__pycache__
+**egg-info
+.vscode
+tests/oda-ontology.ttl
